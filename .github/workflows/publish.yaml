@@ -49,7 +49,7 @@ jobs:
       env:
         HUGO_ENVIRONMENT: production
       run: |
-        hugo --minify --baseURL eurekaimer.github.io
+        hugo
     - name: Generate Pagefind search index
       run: npx pagefind --site "public"
     - name: Upload artifact
