@@ -11,8 +11,7 @@ last_name: Huang
 
 # Status emoji
 status:
-  icon: ![alt text](<S1Z%HX@]7N)4YN})834H7AG.png>)
-
+  icon: 🦧 
 # Is this the primary user of the site?
 superuser: true
 
@@ -46,7 +45,7 @@ education:
   - area: BSc Statistics and Data Science
     institution: Nankai University
     date_start: 2023-09-01
-    date_end: Now 
+    #date_end: 2024-10-23 
     summary: |
       GPA: 0.0/4.0
 
